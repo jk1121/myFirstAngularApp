@@ -1,0 +1,48 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    margin:0;
+    height:100vh;
+    background: #f2f2f2;
+    font-family: 'Monsterrat',sans-serif;
+}
+#container{
+    display :grid;
+    height: 100%;
+    grid-template-columns: 70px auto;
+    
+    #content{
+        padding: 30px 50px;
+    
+        ul{
+            margin:0;
+            padding: 0;
+            list-style-type:none;
+
+            li{
+                background:#fff;
+                border-radius: 8px;
+                padding: 20px;
+                margin-bottom: 20px;
+
+                a {
+                font-size: 1.5em;
+                text-decoration: none;
+                font-weight: bold;
+                color:#00A8FF;
+            } ul {
+                margin-top: 10px;
+                
+                li {
+                    padding:0;
+    
+                    a {
+                        font-size: 1em;
+                        font-weight: 200;
+                    }
+                }
+            }
+        }
+    
+        }
+    }
+}
