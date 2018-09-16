@@ -1,5 +1,5 @@
 
-this app demonstrates : 
+This app demonstrates : 
 1) how angular components work  
 2) how templates are linked to components  
 3) how a service is used to get data into templates 
