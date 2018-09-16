@@ -1,3 +1,12 @@
+
+this app demonstrates : 
+1) how angular components work  
+2) how templates are linked to components  
+3) how a service is used to get data into templates 
+4) how routers are used to display different componenets
+
+
+
 # Angular6App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
